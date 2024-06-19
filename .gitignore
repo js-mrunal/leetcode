@@ -1,0 +1,21 @@
+# Generic
+.DS_STORE
+**/.DS_Store
+*.pyc
+*.pyo
+__pycache__/
+
+# file extensions
+*.csv
+*.tsv
+*gz
+*.zip
+*.parquet
+
+# image file extensions
+*.png
+*.jpg
+*.jpeg
+
+# ipython checkpoints
+.ipynb_checkpoints/

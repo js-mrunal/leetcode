@@ -20,6 +20,8 @@ Constraints:
 1 <= nums.length <= 105
 -109 <= nums[i] <= 109
 '''
+from typing import List
+
 # Solution 1
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:

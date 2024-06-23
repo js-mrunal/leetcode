@@ -24,6 +24,7 @@ Constraints:
 0 <= strs[i].length <= 100
 strs[i] consists of lowercase English letters.
 '''
+from typing import List
 from collections import defaultdict
 
 # Solution 1

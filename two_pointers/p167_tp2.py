@@ -34,9 +34,10 @@ class Solution:
             # else the sum is greater than target and we shift the right pointer
             else:
                 right-=1
-
 '''
 Time complexity: O(n)
 Space complexity: O(1)
 '''
+
+
         
